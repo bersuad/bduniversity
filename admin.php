@@ -27,44 +27,44 @@
 		            <li>
 		                <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
 		                    <i class="fa fa-plus"></i>
-		                    Add New Items
+		                    Link
 		                </a>
 		                <ul class="collapse list-unstyled" id="pageSubmenu">
 		                    <li>
-		                        <a href="#">Sales</a>
+		                        <a href="#">Link</a>
 		                    </li>
 		                    <li>
-		                        <a href="#">Maintenance</a>
+		                        <a href="#">Link</a>
 		                    </li>
 		                </ul>
 		            </li>
 		            <li>
 		                <a href="#">
 		                    <i class="fa fa-users"></i>
-		                    Clients
+		                    link
 		                </a>
 		            </li>
 		            <li>
 		                <a href="#">
 		                    <i class="fa fa-cart-plus "></i>
-		                    Add Sales
+		                    link
 		                </a>
 		            </li>
 		            <li>
 		                <a href="#">
 		                    <i class="fa fa-link"></i>
-		                    Add branch
+		                    link
 		                </a>
 		            </li>
 		            <li>
 		                <a href="#">
 		                    <i class="fa fa-paper-plane"></i>
-		                    Contact
+		                    link
 		                </a>
 		            </li>
 		            <a href="#">
 		                <i class="fa fa-briefcase"></i>
-		                Summary
+		                link
 		            </a>
 		        </ul>
 
@@ -101,21 +101,21 @@
 		        		<div id="admin_well_t" style="">
 		        			<h1><i class="fa fa-money"></i></h1>
 		                    <span>30,000 Br</span> <br>
-		                    <label>Total Income</label>
+		                    <label>Total Hour</label>
 		        		</div>
 		        	</div>
 		        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 		        		<div id="admin_well_r">
 		        			<h1><i class="fa fa-cart-plus"></i></h1>
 		                    <span>3200</span><br>
-		                    <label>Total Selled Items</label>
+		                    <label>Total techers</label>
 		        		</div>
 		        	</div>
 		        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
 		        		<div id="admin_well_q">
 		                    <h1><i class="fa fa-shopping-basket"></i></h1>
 		                    <span>30,000</span> <br>
-		                    <span>N<sup><u>o</u></sup> Items in Stock</span>
+		                    <span>N<sup><u>o</u></sup> total classrooms</span>
 		        		</div>
 		        	</div>
 
@@ -125,7 +125,7 @@
 		            <div class="row">
 		                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 		                    <table class="table table-striped">
-		                        <h2>Leatest Sells List</h2>
+		                        <h2>Leatest Programs</h2>
 		                        <thead>
 		                            <tr>
 		                              <th scope="col">#</th>
@@ -193,7 +193,7 @@
 		                </div>
 		                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 		                    <table class="table table-striped">
-		                        <h2>Leatest maintenances List</h2>
+		                        <h2>Leatest updates List</h2>
 		                        <thead>
 		                            <tr>
 		                              <th scope="col">#</th>
@@ -266,7 +266,7 @@
 
 		        <div class="row" id="sample_list">
 		            <div class="col-lg-8 well">
-		                <h3>Sortage instock</h3>
+		                <h3>New notification</h3>
 		                <table class="table table-striped table-borderless">
 		                    <thead>
 		                        <tr>
@@ -292,7 +292,7 @@
 		            <div class="col-lg-4 well">
 		                <div class="row">
 		                    <div class="col-lg-12" style="min-height: 200px;">
-		                        <h3>Maintenance Experts</h3>
+		                        <h3>expert</h3>
 		                        <div class="row">
 		                            <div class="col-lg-6">
 		                                <img src="{{ asset('storage/images/avater.jpg') }}" style="">
@@ -319,7 +319,7 @@
 		                <hr>
 		                <div class="row">
 		                    <div class="col-lg-12" style="min-height: 200px;">
-		                        <h3>Sales Experts</h3>
+		                        <h3> Experts</h3>
 		                        <div class="row">
 		                            <div class="col-lg-6">
 		                                <img src="">
